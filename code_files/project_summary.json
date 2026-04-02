@@ -1,0 +1,9 @@
+{
+    "total_earthquakes": 74007,
+    "date_range": "2001-01-12 to 2026-01-12",
+    "magnitude_range": "3.0 to 7.820379733",
+    "morans_i": 0.6695,
+    "morans_p": 0.001,
+    "active_cells": 16609,
+    "significant_trend_cells": 1499
+}
